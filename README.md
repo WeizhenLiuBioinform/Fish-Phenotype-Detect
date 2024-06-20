@@ -22,11 +22,11 @@ This repository contains the code and dataset for the paper "Benchmarking Fish D
 
 ## Overview
 
-- [Motivation and design](#Motivation and design)
+- [Motivation and design](#motivation-and-design)
+- [Dataset](#dataset)
+- [Environment Setup](#environment-setup)
+- [Citations](#citations)
 
-- [Dataset](#Dataset)
-- [Environment Setup](#Environment Setup)
-- [Citations](#Citations)
 
 
 
