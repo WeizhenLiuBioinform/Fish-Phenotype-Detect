@@ -1,6 +1,4 @@
 # Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding
-This repository contains the code and dataset for the paper "Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding," accepted at IJCAI2024 in the AI and Social Good track.
-
 <span style="display:inline-block">
   [![IJCAI](https://img.shields.io/badge/IJCAI-paper-brightgreen)](https://arxiv.org/abs/2405.12476)
 </span>
@@ -13,6 +11,7 @@ This repository contains the code and dataset for the paper "Benchmarking Fish D
 <span style="display:inline-block; margin-left: 10px;">
   [![Poster](https://img.shields.io/badge/Poster-Presentation-cyan)]()
 </span>
+This repository contains the code and dataset for the paper "Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding," accepted at IJCAI2024 in the AI and Social Good track.
 
 
 [Weizhen Liu<sup>1</sup>](https://www.researchgate.net/profile/Weizhen-Liu), [Jiayu Tan<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Tan,+J), [Guangyu Lan<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Lan,+G), [Ao Li<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Li,+A), [Dongye Li<sup>4</sup>](https://arxiv.org/search/cs?searchtype=author&query=Li,+D), [Le Zhao<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+L), [Xiaohui Yuan<sup>1,3 *</sup>](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X), [Nanqing Dong<sup>2 *</sup>](https://eveningdong.github.io/)
