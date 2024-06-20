@@ -1,17 +1,30 @@
 # Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding
 This repository contains the code and dataset for the paper "Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding," accepted at IJCAI2024 in the AI and Social Good track.
+<span style="display:inline-block">
+  [![IJCAI](https://img.shields.io/badge/IJCAI-paper-brightgreen)](https://arxiv.org/abs/2405.12476)
+</span>
+<span style="display:inline-block; margin-left: 10px;">
+  [![arXiv](https://img.shields.io/badge/arXiv-paper-purple?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](https://arxiv.org/abs/2405.12476)
+</span>
+<span style="display:inline-block; margin-left: 10px;">
+  [![fish](https://img.shields.io/badge/fish-Image-yellow?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](#Dataset)
+</span>
+<span style="display:inline-block; margin-left: 10px;">
+  [![Poster](https://img.shields.io/badge/Poster-Presentation-cyan)]()
+</span>
 
-[![IJCAI](https://img.shields.io/badge/IJCAI-paper-brightgreen)](https://arxiv.org/abs/2405.12476)
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-purple?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](https://arxiv.org/abs/2405.12476)
+[Weizhen Liu<sup>1</sup>](https://www.researchgate.net/profile/Weizhen-Liu), [Jiayu Tan<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Tan,+J), [Guangyu Lan<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Lan,+G), [Ao Li<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Li,+A), [Dongye Li<sup>4</sup>](https://arxiv.org/search/cs?searchtype=author&query=Li,+D), [Le Zhao<sup>1</sup>](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+L), [Xiaohui Yuan<sup>1,3 *</sup>](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X), [Nanqing Dong<sup>2 *</sup>](https://eveningdong.github.io/)
 
-[![fish](https://img.shields.io/badge/fish-Image-yellow?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](#Dataset)
+<p align="center"><sup>1</sup>School of Computer Science and Artificial Intelligence, Wuhan University of Technology</p>
+<p align="center"><sup>2</sup>Shanghai Artificial Intelligence Laboratory</p>
+<p align="center"><sup>3</sup>Yazhouwan National Laboratory</p>
+<p align="center"><sup>4</sup>Sanya Boruiyuan Technology Co. Ltd</p>
+<p align="center"><sup>{liuweizhen, tjy2023305211,yuanxiaohui}@whut.edu.cn, dongnanqing@pjlab.org.cn</sup></p>
 
-[![Poster](https://img.shields.io/badge/Poster-Presentation-cyan)]()
-
-[Weizhen Liu](https://www.researchgate.net/profile/Weizhen-Liu), [Jiayu Tan](https://arxiv.org/search/cs?searchtype=author&query=Tan,+J), [Guangyu Lan](https://arxiv.org/search/cs?searchtype=author&query=Lan,+G), [Ao Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+A), [Dongye Li](https://arxiv.org/search/cs?searchtype=author&query=Li,+D), [Le Zhao](https://arxiv.org/search/cs?searchtype=author&query=Zhao,+L), [Xiaohui Yuan](https://arxiv.org/search/cs?searchtype=author&query=Yuan,+X), [Nanqing Dong](https://eveningdong.github.io/)
-
-![image-20240619223136877](C:\Users\jiayu\AppData\Roaming\Typora\typora-user-images\image-20240619223136877.png)
+<div style="text-align:center">
+<img src="assets/figure.png" width="800" alt="" class="img-responsive">
+</div>
 
 
 
