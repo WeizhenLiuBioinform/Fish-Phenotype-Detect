@@ -41,8 +41,8 @@ FishPhenoKey is designed to support diverse research needs with flexibility and 
 The FishPhenoKey dataset includes high-resolution JPG images of six fish species, each captured from two different viewpoints. Under the guidance of fishery experts, we have precisely annotated four of these species to support the task of measuring subtle morphological phenotypes in fish body parts. The definitions of the 22 keypoints are detailed as follows: 1: tip of the snout, 2: posterior end of the operculum, 3: top end of the head, 4: isthmus, 5: dorsal apex, 6: bottom end of the ventral margin, 7: top end of the caudal peduncle, 8: bottom end of the caudal peduncle, 9: posterior end of the tail fin, 10: posterior end of the caudal vertebrae, 11: anterior end of the eye, 12: posterior end of the eye, 13: anterior end of the pectoral fin, 14: posterior end of the pectoral fin, 15: anterior end of the pelvic fin, 16: posterior end of the pelvic fin, 17: anterior end of the anal fin, 18: posterior end of the anal fin, 19: outer margin of the anal fin, 20: anterior end of the dorsal fin, 21: posterior end of the dorsal fin, 22: outer margin of the dorsal fin.
 
 <div style="display: flex; justify-content: center;">
-  <img src="assets/fish.png" style="height: 250px; width: 380px; margin-right: 10px;">
-  <img src="assets/fish.gif" style="height: 250px; width: 380px;">
+  <img src="assets/fish.png" style="height: 250px; width: 400px; margin-right: 10px;">
+  <img src="assets/fish.gif" style="height: 250px; width: 400px;">
 </div>
 
 
