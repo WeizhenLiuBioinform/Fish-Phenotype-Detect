@@ -1,5 +1,5 @@
 # Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection -Towards Precise Fish Morphological Assessment in Aquaculture Breeding
- [![IJCAI](https://img.shields.io/badge/IJCAI-paper-brightgreen)](https://arxiv.org/abs/2405.12476)
+ [![IJCAI](https://img.shields.io/badge/IJCAI-paper-brightgreen)](https://www.ijcai.org/proceedings/2024/816)
  [![arXiv](https://img.shields.io/badge/arXiv-paper-purple?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](https://arxiv.org/abs/2405.12476)
  [![fish](https://img.shields.io/badge/fish-Image-yellow?link=https%3A%2F%2Farxiv.org%2Fabs%2F2405.12476)](#Dataset)
  [![Poster](https://img.shields.io/badge/Poster-Presentation-cyan)]()
@@ -64,11 +64,20 @@ If you need the complete dataset, please download the [FishPhenoKey Dataset User
 Please cite our paper in your publications if our methods and dataset are helpful to your research. The BibTeX is as follows:
 
 ~~~
-@article{liu2024benchmarking,
-  title={Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection-Towards Precise Fish Morphological Assessment in Aquaculture Breeding},
-  author={Liu, Weizhen and Tan, Jiayu and Lan, Guangyu and Li, Ao and Li, Dongye and Zhao, Le and Yuan, Xiaohui and Dong, Nanqing},
-  journal={arXiv preprint arXiv:2405.12476},
-  year={2024}
+@inproceedings{ijcai2024p816,
+  title     = {Benchmarking Fish Dataset and Evaluation Metric in Keypoint Detection - Towards Precise Fish Morphological Assessment in Aquaculture Breeding},
+  author    = {Liu, Weizhen and Tan, Jiayu and Lan, Guangyu and Li, Ao and Li, Dongye and Zhao, Le and Yuan, Xiaohui and Dong, Nanqing},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {7376--7384},
+  year      = {2024},
+  month     = {8},
+  note      = {AI for Good},
+  doi       = {10.24963/ijcai.2024/816},
+  url       = {https://doi.org/10.24963/ijcai.2024/816},
 }
+
 ~~~
 
